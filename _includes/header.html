@@ -5,13 +5,13 @@
     {%- assign default_paths = site.pages | sort:"order" | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <div style='padding-top:10px;padding-bottom:1px'>
+    <a class = "logo" class="site-title" rel="author" href="{{ "/" | relative_url }}">
+
       <img  src="/assets/images/tech41_header.png" alt="Tech41 GmbH" height="60"  />
-    </div>
+
     </a>
       <br/><br/><br/>
-      <span style="font-size:17px; color:rgb(44, 152, 191);offset: 0px -40px;">We build audio empowered mobile apps and plugins in C++, Swift and Kotlin</span>
+      <span class = "strap" style="font-size:17px; color:#ffffff;offset: 0px -40px;">We build high performance audio mobile apps and plugins in C++, Swift and Kotlin</span>
     </div>
 
     {%- if page_paths -%}
@@ -29,7 +29,7 @@
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <a class="page-link" style='color:rgb(44, 152, 191)' href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            <a class="page-link" style='color:#ffffff' href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
         </div>

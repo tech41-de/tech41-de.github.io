@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Apps 
+title:  IoS
 permalink: /apps/
 order: 1
 ---
 
-
-<div style='float:left;  z-order:2;background-color:black;foreground-color:white; position: relative; top: 70px; '>
+<div class="rcorners" style='float:left;  z-order:2;background-color:black;foreground-color:white; position: relative; top: 70px; '>
 <h1 style='font-size:70px'>Vocalstar</h1>
     <ul>
     <li>Sing along with your favourite tunes</li>
