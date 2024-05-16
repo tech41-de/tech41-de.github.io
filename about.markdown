@@ -1,18 +1,31 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
+order: 2
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Impressum
+Angaben gemäß § 5 TMG:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Tech41 GmbH
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Schützenstrasse 110, 22761 Hamburg
+
+Telefonnummer: +49 172 169 6364
+
+E-Mail: [info@tech41.de](mailto:info@tech41.de)
+
+Website: [tech41.de](https://tech41.de)
 
 
-[jekyll-organization]: https://github.com/jekyll
+Registergericht: Amtsgericht Berlin
+Registernummer: HRB 234984 B
+Vertretungsberechtigter Geschäftsführer: Mathias Dietrich
+Umsatzsteuer-Identifikationsnummer gemäß § 27 UStG: DE359473027
+
+​
+
+Verantwortlich für den Inhalt „Musterkategorie“ nach § 55 Abs. 2 RStV:
+
+Mathias Dietrich, Tech41 GmbH, Schü​tzenstrasse 110, 22761 Hamburg
