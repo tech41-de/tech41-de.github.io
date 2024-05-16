@@ -7,7 +7,7 @@ layout: home
 ---
 
 <div class="home">
-<h1>Welcome to TECH41.</h1>
+<h1>Welcome to TECH41!</h1>
 <p>We are a small development company based in Hamburg/Germany</p>
 <p>We are building high performance audio applications for mobile and desktop as well as VST, VST3, AU, AUv3, AAX and LV2 plug-ins.</p>
 <p>User Interfaces are typically build native using Swift on IoS and Kotlin on Android.</p>
